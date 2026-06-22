@@ -111,8 +111,3 @@ Here are the key classes in the system:
 
 ---
 
-## 📧 **Contact**
-
-- **GitHub**: [abdullahimran49](https://github.com/abdullahimran49)
-- **Email**: [imranabdullah958@gmail.com](mailto:imranabdullah958@gmail.com)
-
